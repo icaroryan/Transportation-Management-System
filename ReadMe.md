@@ -56,7 +56,7 @@ The admin also has the ability to initiate a backup to be performed on the local
 
 # Demo Video
 
-[![IMAGE ALT TEXT HERE](https://gcdn.pbrd.co/images/A4BvcXP1Olqj.png)](https://www.youtube.com/watch?v=fmqJGEqpZvI)
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/0rw5kSY/ttt.jpg)](https://www.youtube.com/watch?v=fmqJGEqpZvI)
 
 # Development Process
 
