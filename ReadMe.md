@@ -10,7 +10,8 @@ The project was created using C# and WPF, supported with a MySQL Database. Agile
 
 ## 🛠 Tech Stack
 
-| <img src="https://i.imgur.com/2Eo8JaI.png" width="40"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="40"> |  
+| <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/> | <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> |  
+
 
 - **User Interface**: Windows Presentation Foundation (WPF) </br>
 - **Languages Used**: C# </br>
